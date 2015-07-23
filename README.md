@@ -22,6 +22,8 @@ In Go, slices are the most common way of dealing with sequences of data. Slices 
 
 ## [C++ Data Structures](https://github.com/learn-something-new/data-structures)
 
+## Attributes
+Icon made by [Freepik](http://www.freepik.com "Freepik") from [www.flaticon.com](http://www.flaticon.com "Flaticon") is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0")
 
 ##License
 This tool is protected by the [GNU General Public License v2](http://www.gnu.org/licenses/gpl-2.0.html).
