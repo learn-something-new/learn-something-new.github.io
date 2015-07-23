@@ -2,7 +2,7 @@
 
 # Learn Something New
 
-[![logo](https://raw.githubusercontent.com/learn-something-new/learn-something-new.github.io/master/logo.png?v=1)](#)
+[![logo](https://raw.githubusercontent.com/learn-something-new/learn-something-new.github.io/master/logo.png?v=2)](#)
 
 A collection of coding examples and projects to help you learn something new.
 
