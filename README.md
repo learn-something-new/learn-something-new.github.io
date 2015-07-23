@@ -18,6 +18,14 @@ A collection of coding examples and projects to help you learn something new.
 In this suite of documents we discuss functional programming: What it looks like, how it works, and what it's good for. We try to do this from a practical-but-fun perspective, showing examples of functional programming in conventional languages, and (most importantly) how functional programming can complement object-oriented programming.
 
 ## [Go Data Structures](https://github.com/learn-something-new/go-data-structures)
+
+A collection of Go code for me to re-learn data structures including:
+
++ Stacks - Fixed size structure with push and pop methods, following the FILO rule (first in, last out)
++ Queues - Fixed size structure with add and del methods, following the FIFO rule (first in, first out)
++ Linked Lists - Non-fixed (only restricted by avaliable memory) data structure with add and del methods. Each item or 'node' in the list contains a pointer to the next item in the list. Their is no first or last out rule that applies to this list as it allows the removal of any item in any order.
++ Doubly Linked Lists - Non-fixed (only restricted by avaliable memory) data structure with add and del methods. Each item or 'node' in the list contains a pointer to the next item in the list as well the previous. Their is no first or last out rule that applies to this list as it allows the removal of any item in any order.
+
 ## [Go Slices](https://github.com/learn-something-new/go-slices)
 
 In Go, slices are the most common way of dealing with sequences of data. Slices are an abstraction of the array type in Go. In this topic I provide a basic example of slices and how you can start using them.
