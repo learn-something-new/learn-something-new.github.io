@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/github/license/learn-something-new/learn-somehing-new.github.io.svg)](https://github.com/learn-something-new/learn-somehing-new.github.io/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/learn-something-new/learn-something-new.github.io.svg)](https://github.com/learn-something-new/learn-something-new.github.io)
 
 # Learn Something New
 
